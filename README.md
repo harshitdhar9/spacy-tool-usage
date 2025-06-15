@@ -1,1 +1,3 @@
-# spacy-tool-usage
+Document analysis using spacy library 
+#text-analysis
+#text-preprocessing
